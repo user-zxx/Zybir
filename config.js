@@ -9,7 +9,6 @@ var config = {
         "一生简单", 
         "JUST HAPPY",
         "ZXX   0820",
-        "test",
         "。",
         " ",
         "。。",
